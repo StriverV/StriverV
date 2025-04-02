@@ -1,13 +1,10 @@
-<h4 align="left">Hi 👋 I'm Mystic Striver<br>👩‍💻 Undergraduate 2nd-year CSE  student, ranked 1st in my dept.<br>🚀 Passionate about software development, problem-solving, & competitive programming.</h4>
+<h4 align="left">Hi 👋 I'm Mystic Striver<br>.</h4>
 
 ###
 
 <div align="center">
 </div>
 
-###
-
-<img align="right" height="150" src="https://giffiles.alphacoders.com/348/34883.gif"  />
 
 ###
 
@@ -24,11 +21,7 @@
 <div align="left">
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/StriverV/StriverV/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -67,13 +60,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StriverV/StriverV/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StriverV/StriverV/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/StriverV/StriverV/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<img align="right" height="150" src="https://giffiles.alphacoders.com/348/34883.gif"  />
 
 <div align="left">
 </div>

@@ -5,38 +5,6 @@
 <div align="center">
 </div>
 
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<p align="left">Life is like code: every challenge is an opportunity to debug and improve</p>
-
-###
-
-<div align="center">
-</div>
-
 ###
 
 <div align="left">
@@ -57,6 +25,36 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/StriverV/count.svg?"  />
 </div>
+
+###
+<div align="center">
+</div>
+
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<p align="left">Life is like code: every challenge is an opportunity to debug and improve</p>
 
 ###
 

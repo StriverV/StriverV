@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋 I'm Mystic Striver<br>.</h4>
+<h4 align="left">Hi 👋 I'm Mystic Striver<br></h4>
 
 ###
 

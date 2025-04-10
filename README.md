@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋 I'm Mystic Striver<br></h4>
+<h4 align="left">Hi 👋 <br></h4>
 
 ###
 
@@ -58,9 +58,3 @@
 
 ###
 
-<img align="right" height="150" src="https://giffiles.alphacoders.com/348/34883.gif"  />
-
-<div align="left">
-</div>
-
-###

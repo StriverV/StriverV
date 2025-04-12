@@ -1,4 +1,4 @@
-<h1 align="center">✨ StriverV ✨</h1>
+<h1 align="center">StriverV</h1>
 <p align="center">
   <em>Debugging life’s errors, one step at a time 🧩</em> <br/>
   <strong>Rank 1 🏅 | 2nd Year CSE Student 💻</strong> <br/>
@@ -9,7 +9,7 @@
 
 ### 🔍 Visitor Count
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=StriverV&icon=5&color=6" alt="Visitor Count"/>
+  <img src="https://visitcount.itsvg.in/api?id=StriverV &icon=5&color=6" alt="Visitor Count"/>
 </p>
 
 ---
@@ -48,4 +48,3 @@
 
 ---
 
-<p align="center"><i>Crafted with care & curiosity 💫</i></p>

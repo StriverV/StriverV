@@ -4,7 +4,8 @@ Rank 1 🏅 | 2nd Year CSE Student 💻 |
 
 Passionate about Software Development & Problem Solving 
 
-#Visitor Count:
+# 🔍 Visitor Count
+![Visitor Count](https://visitcount.itsvg.in/api?id=StriverV&icon=0&color=0)
 [![](https://visitcount.itsvg.in/api?id=StriverV&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:

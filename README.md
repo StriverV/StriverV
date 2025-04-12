@@ -7,13 +7,6 @@
 
 ---
 
-### 🔍 Visitor Count
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=StriverV &icon=5&color=6" alt="Visitor Count"/>
-</p>
-
----
-
 ### 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>

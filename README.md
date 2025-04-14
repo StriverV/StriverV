@@ -9,7 +9,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/StriverV/count.svg?"  />
 </div>
-----
 
 ### 🔝 Top Contributed Repo
 <p align="center">
@@ -43,8 +42,11 @@
 
 ---
 
-<p align="left">Is there for a person whatever they wish?</p>
-<p>And that there is not for a person except that [good] for which they strive.”</p>
-<p>— Al Quran, 53:24, 53:39</p>
----
+<p align="left"><strong>“Is there for a person whatever they wish?<br>
+And that there is not for a person except that [good] for which they strive.”</strong><br>
+— <em>Al Quran, 53:24, 53:39</em></p>
+
+
+                
+
 

@@ -30,7 +30,7 @@
 </p>
 
 ---
-### 🚀 Competitive Coding Journey
+### 🚀 Competitive Programming Journey
 
 <p align="left">
   <a href="https://www.codechef.com/users/nosratee22" target="_blank">

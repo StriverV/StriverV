@@ -30,9 +30,20 @@
 </p>
 
 ---
-##
-<img src="https://www.codechef.com/users/nosratee22/>
----
+### 🚀 Competitive Coding Journey
+
+<p align="left">
+  <a href="https://www.codechef.com/users/nosratee22" target="_blank">
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="40" style="margin-right: 10px;">
+  </a>
+  
+  <a href="https://codeforces.com/profile/nosratee.jn" target="_blank">
+    <img src="https://sta.codeforces.com/s/59546/images/codeforces-logo-with-telegram.png" alt="Codeforces" height="40">
+  </a>
+</p>
+
+----
+
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StriverV&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>

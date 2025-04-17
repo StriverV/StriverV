@@ -2,7 +2,6 @@
 <p align="center">
   <em>Debugging life’s errors, one step at a time 🧩</em> <br/>
   <strong>Rank 1 🏅 | 2nd Year CSE Student 💻</strong> <br/>
-  <em>Passionate about Software Development & Problem Solving 💡</em>
 </p>
 
 ---

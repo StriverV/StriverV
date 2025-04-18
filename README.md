@@ -21,7 +21,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StriverV&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
 ---
-### 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=StriverV&theme=radical&no-frame=true&no-bg=true&margin-w=20&column=7&margin-h=15"/></p>
@@ -35,7 +35,7 @@
 </p>
 
 ---
-### 🚀 Competitive Programming Journey
+### 🚀 Competitive Programming 
 
 <p align="left">
   <a href="https://www.codechef.com/users/nosratee22" target="_blank">

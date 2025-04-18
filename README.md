@@ -1,9 +1,19 @@
-<h1 align="center">StriverV</h1>
+
+<!-- Main Heading with Typing Effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+I'm+StriverV;&center=true&size=28&duration=4000&pause=500&color=00F7FF&width=600" />
+</h1>
+
 <p align="center">
-  <em>Debugging life’s errors, one step at a time 🧩</em> <br/>
-  <strong>Rank 1 🏅 | 2nd Year CSE Student 💻</strong> <br/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100px">
 </p>
 
+<p align="center">
+  <em><strong>Debugging life’s errors, one step at a time.</strong></em> <br/>
+  <strong>🏅 Rank 1 | 💻 2nd Year CSE Student </strong>
+</p>
+
+---
 ---
 <div align="center">
   <img src="https://profile-counter.glitch.me/StriverV/count.svg?"  />

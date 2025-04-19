@@ -9,7 +9,6 @@
 
 <p align="center">
   <em><strong>Debugging life’s errors, one step at a time.</strong></em> <br/>
-  <strong>🏅 Rank 1 | 💻 2nd Year CSE Student </strong>
 </p>
 
 

@@ -1,6 +1,6 @@
 <!-- Main Heading with Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+I'm+StriverV;&center=true&size=28&duration=4000&pause=500&color=00F7FF&width=600" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Naba;&center=true&size=28&duration=4000&pause=500&color=00F7FF&width=600" />
 </h1>
 
 <p align="center">

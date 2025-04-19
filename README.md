@@ -11,7 +11,7 @@
   <em><strong>Debugging life’s errors, one step at a time.</strong></em> <br/>
   <strong>🏅 Rank 1 | 💻 2nd Year CSE Student </strong>
 </p>
----
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/StriverV/count.svg?"  />
@@ -22,19 +22,19 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=StriverV&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
 
----
+
 
 <h3 align="center">Contribution Graph</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StriverV&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
----
+
 
 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=StriverV&theme=radical&no-frame=true&no-bg=true&margin-w=20&column=7&margin-h=15"/></p>
----
+
 
 ### 💻 Tech Stack:
 <p align="center">
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </p>
----
+
 
 ### 🚀 Competitive Programming 
 
@@ -56,7 +56,6 @@
   </a>
 </p>
 
-----
 
 ### 📊 GitHub Stats:
 <p align="center">
@@ -66,7 +65,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StriverV&theme=dark&hide_border=false&layout=compact"/>
 </p>
----
+
 
 ### ✨ 
 <p align="center">
@@ -75,7 +74,7 @@
   <em>— Al Quran, 53:24, 53:39</em>
 </p>
 
----
+
 <!-- Optional Lightning Divider -->
 <p align="center">
   <img src="https://media.tenor.com/IVCnzFyS3jEAAAAC/lightning-strike.gif" width="100%" />

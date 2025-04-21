@@ -71,9 +71,3 @@
   And that there is not for a person except that [good] for which they strive.”</strong><br>
   <em>— Al Quran, 53:24, 53:39</em>
 </p>
-
-
-<!-- Optional Lightning Divider -->
-<p align="center">
-  <img src="https://media.tenor.com/IVCnzFyS3jEAAAAC/lightning-strike.gif" width="100%" />
-</p>

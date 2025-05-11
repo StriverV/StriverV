@@ -31,8 +31,7 @@
 
 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=StriverV&theme=radical&no-frame=true&no-bg=true&margin-w=20&column=7&margin-h=15"/></p>
+![trophy](https://github-profile-trophy.vercel.app/?username=StriverV&theme=matrix&column=7&no-frame=true&margin-w=20&margin-h=20)
 
 
 ### 💻 Tech Stack:

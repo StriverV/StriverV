@@ -1,7 +1,8 @@
 <!-- Main Heading with Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Nosratee+Jahan+Naba;&center=true&size=28&duration=4000&pause=500&color=00F7FF&width=600" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Nosratee+Jahan+Naba.;Competitive+Programmer.;Best+Female+Team,+IUCP+CSE+Fest+2025.;2nd+Year+CSE+Student,+BAIUST.;Ranked+1st+in+Department.;&center=true&size=28&duration=4000&pause=500&color=00F7FF&width=800" />
 </h1>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100px">

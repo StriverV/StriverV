@@ -1,16 +1,8 @@
 <!-- Main Heading with Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Nosratee+Jahan+Naba.;Competitive+Programmer.;Best+Female+Team,+IUPC,+BAIUST+CSE+Fest+2025.;2nd+Year+CSE+Student,+BAIUST.;Dept.+First;&center=true&size=28&duration=4000&pause=500&color=00F7FF&width=800" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Nosratee+Jahan+Naba" />
 </h1>
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100px">
-</p>
-
-<p align="center">
-  <em><strong>Debugging life’s errors, one step at a time.</strong></em> <br/>
-</p>
 
 
 <div align="center">
@@ -40,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="margin-right: 10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin-right: 10px;"/>
  
 
 ### 🚀 Competitive Programming 
